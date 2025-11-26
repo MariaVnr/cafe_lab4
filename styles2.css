@@ -192,8 +192,8 @@ main {
     }
     
     .service-card {
-        width: 30%;
-        max-width: 400px; 
+        width: 100%;
+        max-width: 500px; 
     }
 
     .section-title {
@@ -208,5 +208,6 @@ main {
     .footer{
         height: 50%;
     }
+
 
 }
